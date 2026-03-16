@@ -1,0 +1,18 @@
+{
+  "name": "fola3.0",
+  "version": "0.0.1",
+  "description": "CLI to resize images to a target file size using ImageMagick",
+  "license": "MIT",
+  "bin": {
+    "resize-image": "scripts/resize-image.js"
+  },
+  "files": [
+    "scripts"
+  ],
+  "scripts": {
+    "resize-image": "node scripts/resize-image.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
