@@ -1,6 +1,6 @@
 # fola3.0
 
-CLI to resize images to a target file size using ImageMagick. Scales the image as needed and adjusts JPEG quality to hit the target size.
+Fola 3.0 chat bot
 
 ## Requirements
 

@@ -1,7 +1,7 @@
 {
   "name": "fola3.0",
   "version": "0.0.1",
-  "description": "CLI to resize images to a target file size using ImageMagick",
+  "description": "Folasake chat bot",
   "license": "MIT",
   "bin": {
     "resize-image": "scripts/resize-image.js"
