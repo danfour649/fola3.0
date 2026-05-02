@@ -10,6 +10,7 @@ This project is a docs-first workspace for planning and launching a legitimate c
 - `docs/04-first-90-days-plan.md`: Launch execution plan
 - `docs/05-sources-and-links.md`: Official reference links (NB + Canada)
 - `docs/06-business-plan-folas-cleaning-company.md`: Full business plan draft
+- `docs/07-structure-decision-sole-vs-spouse-partnership.md`: Decision matrix and worksheet for choosing setup structure
 - `docs/templates/`: Reusable templates in Markdown
 - `scripts/`: Document generation utilities
 - `deliverables/`: Generated DOCX/PDF output files
