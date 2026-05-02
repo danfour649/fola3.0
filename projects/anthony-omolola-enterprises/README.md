@@ -1,6 +1,6 @@
-# New Brunswick Cleaning Company Launch Project
+# Anthony & Omolola Enterprises Launch Project
 
-This project is a docs-first workspace for planning and launching a legitimate cleaning company in New Brunswick, Canada.
+This project is a docs-first workspace for planning and launching Anthony & Omolola Enterprises (A&O) in New Brunswick, Canada, with cleaning as one of the initial service lines.
 
 ## What is in this project
 
@@ -9,7 +9,7 @@ This project is a docs-first workspace for planning and launching a legitimate c
 - `docs/03-document-pack.md`: Which documents to prepare and store
 - `docs/04-first-90-days-plan.md`: Launch execution plan
 - `docs/05-sources-and-links.md`: Official reference links (NB + Canada)
-- `docs/06-business-plan-folas-cleaning-company.md`: Full business plan draft
+- `docs/06-business-plan-anthony-omolola-enterprises.md`: Full business plan draft
 - `docs/07-structure-decision-sole-vs-spouse-partnership.md`: Decision matrix and worksheet for choosing setup structure
 - `docs/templates/`: Reusable templates in Markdown
 - `scripts/`: Document generation utilities
@@ -42,7 +42,7 @@ python3 -m pip install --user python-docx reportlab
 
 ```bash
 python3 scripts/generate_doc.py \
-  --input docs/06-business-plan-folas-cleaning-company.md \
+  --input docs/06-business-plan-anthony-omolola-enterprises.md \
   --output-dir deliverables \
   --formats docx,pdf
 ```

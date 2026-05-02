@@ -1,14 +1,13 @@
 # Step-by-Step Launch Guide (New Brunswick, Canada)
 
-Use this sequence to open and run a legitimate cleaning company in New Brunswick.
+Use this sequence to open and run a legitimate business in New Brunswick with cleaning as one initial service line.
 
-## 1) Define your service model
+## 1) Define your business model and service lines
 
-- Choose your core services:
-  - Residential recurring cleaning
-  - Move-in/move-out cleaning
-  - Commercial janitorial cleaning
-  - Specialized services (post-construction, carpet, windows, etc.)
+- Choose your initial service lines:
+  - Cleaning (residential, commercial, move services)
+  - Secondary offerings planned for later phases (if any)
+- Define your core revenue mix (for example: cleaning first, expansion later).
 - Decide where you will operate first (city/town and surrounding radius).
 - Decide whether you will start solo or with employees/subcontractors.
 
@@ -68,7 +67,7 @@ Set up basic risk controls: PPE, WHMIS process, incident reporting, and site-spe
 
 ## 9) Build your legal/operational document set
 
-Before first client:
+Before first paying client:
 
 - Client quote template
 - Service agreement template
@@ -85,7 +84,7 @@ Store all finalized versions in this repository.
 - Track HST collected and paid (if registered).
 - Separate owner draws/payroll from operating expenses.
 
-## 11) Launch with controlled capacity
+## 11) Launch initial operations with controlled capacity
 
 - Start with manageable routes and service windows.
 - Track actual job time and margin per job.

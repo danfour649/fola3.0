@@ -3,8 +3,8 @@
 Generate DOCX and PDF versions of the business plan from markdown.
 
 Outputs:
-- deliverables/business-plan-folas-cleaning-company.docx
-- deliverables/business-plan-folas-cleaning-company.pdf
+- deliverables/business-plan-anthony-omolola-enterprises.docx
+- deliverables/business-plan-anthony-omolola-enterprises.pdf
 """
 
 from __future__ import annotations
@@ -15,9 +15,9 @@ from doc_exporter import convert_markdown_file
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[1]
-SOURCE_MD = PROJECT_ROOT / "docs" / "06-business-plan-folas-cleaning-company.md"
+SOURCE_MD = PROJECT_ROOT / "docs" / "06-business-plan-anthony-omolola-enterprises.md"
 OUT_DIR = PROJECT_ROOT / "deliverables"
-OUT_BASENAME = "business-plan-folas-cleaning-company"
+OUT_BASENAME = "business-plan-anthony-omolola-enterprises"
 
 
 def main() -> None:

@@ -5,7 +5,7 @@ This file defines your core records. Keep file names consistent so audits and re
 ## Suggested repository storage layout
 
 ```text
-projects/new-brunswick-cleaning-company/
+projects/anthony-omolola-enterprises/
   docs/
   records/
     registration/

@@ -1,4 +1,4 @@
-# Business Plan: Fola's Cleaning Company
+# Business Plan: Anthony & Omolola Enterprises (A&O)
 
 Date: 2026-05-02  
 Location: New Brunswick, Canada  
@@ -8,13 +8,13 @@ Prepared for: Founder and startup planning
 
 ## 1. Executive Summary
 
-Fola's Cleaning Company is a startup cleaning business planned for launch in New Brunswick, Canada. The company will provide reliable, professional residential and small-commercial cleaning services with clear scope definitions, consistent quality standards, and customer-friendly communication.
+Anthony & Omolola Enterprises (A&O) is a startup service business planned for launch in New Brunswick, Canada. The company will start with professional residential and small-commercial cleaning as its initial operating line while building toward broader enterprise service offerings over time.
 
 The business will begin with a controlled local launch, focusing on profitable routes and recurring clients before scaling. The first phase will prioritize legal setup, insurance, service quality, and disciplined operations. Growth will be driven by referrals, local digital presence, and repeat service contracts.
 
 Core value proposition:
 
-- Professional cleaning with dependable scheduling
+- Dependable, professional cleaning as an initial service line
 - Clear service scope and transparent pricing
 - Safety-conscious processes and documented quality checks
 - Fast response and strong customer retention practices
@@ -23,17 +23,17 @@ Core value proposition:
 
 ## 2. Company Overview
 
-### 2.1 Tentative Business Name
+### 2.1 Business Name
 
-Fola's Cleaning Company (subject to availability and registration checks).
+Anthony & Omolola Enterprises (A&O), subject to final name availability and registration checks.
 
 ### 2.2 Mission
 
-Deliver trustworthy, detail-oriented cleaning services that help households and businesses maintain healthy, organized spaces.
+Deliver reliable, high-quality services that solve practical client needs, beginning with detail-oriented cleaning operations and expanding into additional service lines as capacity grows.
 
 ### 2.3 Vision
 
-Build a respected New Brunswick cleaning brand known for consistency, professionalism, and long-term client relationships.
+Build a respected New Brunswick enterprise brand known for consistency, professionalism, and long-term client relationships across multiple service offerings.
 
 ### 2.4 Legal Structure (Planned)
 
@@ -43,14 +43,14 @@ Initial recommendation: sole proprietorship for launch simplicity, with an optio
 
 ## 3. Services
 
-Primary service offerings:
+Initial service offerings (Phase 1):
 
 - Residential recurring cleaning (weekly, biweekly, monthly)
 - One-time deep cleaning
 - Move-in and move-out cleaning
 - Small-office and retail cleaning (off-hours options)
 
-Optional add-ons:
+Optional add-ons (Phase 1):
 
 - Interior appliance cleaning
 - Interior window cleaning
@@ -67,7 +67,7 @@ Service design principles:
 
 ## 4. Market Analysis
 
-### 4.1 Target Customers
+### 4.1 Target Customers (Phase 1)
 
 - Busy families and professionals
 - Seniors needing regular home support cleaning
@@ -83,7 +83,7 @@ Service design principles:
 
 ### 4.3 Competitive Position
 
-Fola's Cleaning Company will compete through:
+A&O will compete through:
 
 - Reliability and communication
 - Quality control through standardized checklists
@@ -94,7 +94,7 @@ Fola's Cleaning Company will compete through:
 
 ## 5. Marketing and Sales Strategy
 
-### 5.1 Go-to-Market Channels
+### 5.1 Go-to-Market Channels (Initial)
 
 - Google Business Profile and local SEO basics
 - Community social channels and referrals
@@ -196,9 +196,10 @@ Estimated startup range: CAD 4,000 to CAD 12,000, depending on launch scale and 
 
 ### 9.2 Revenue Model
 
-- Recurring residential clients as base cash flow
-- One-time deep cleans and move services as margin boosters
+- Recurring residential clients as base cash flow in phase 1
+- One-time deep cleans and move services as margin boosters in phase 1
 - Commercial contracts for predictable off-hours revenue
+- Expansion to adjacent service lines under the A&O brand in later phases
 
 ### 9.3 Performance Targets (First 12 Months)
 
@@ -264,25 +265,18 @@ Use of funds priority:
 
 ---
 
-## 13. Brand Name Alternatives
+## 13. Name and Brand Notes
 
-If "Fola's Cleaning Company" is unavailable or too close to an existing name, consider:
+A&O is the intended short brand for Anthony & Omolola Enterprises.
 
-- Fola's Fresh Start Cleaning
-- Fola's Sparkle & Shine
-- Fola Home & Office Cleaning
-- Fola Premier Cleaning Services
-- Fola Reliable Cleaning Co.
-- Blue Maple Cleaning by Fola
-- East Coast Spark Cleaning
-- TidyNest NB Cleaning
-- Riverstone Cleaning Services
-- Maritimes Shine Co.
+Before finalizing:
 
-Before deciding, run name availability checks and trademark conflict screening.
+- confirm legal name availability and registrability in New Brunswick
+- confirm any required naming elements for chosen legal structure
+- run trademark conflict screening for key operating names
 
 ---
 
 ## 14. Conclusion
 
-Fola's Cleaning Company can launch as a focused, compliant, and quality-driven service business in New Brunswick. Success in year one depends on disciplined scope control, recurring-customer growth, strong documentation, and operational consistency.
+Anthony & Omolola Enterprises (A&O) can launch as a focused, compliant, and quality-driven service business in New Brunswick with cleaning as its initial operating line. Success in year one depends on disciplined scope control, recurring-customer growth, strong documentation, and operational consistency.

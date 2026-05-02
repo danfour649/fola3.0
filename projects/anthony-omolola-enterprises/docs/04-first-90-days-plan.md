@@ -4,7 +4,7 @@ This plan keeps startup execution focused while staying compliant.
 
 ## Days 1-15: Foundation
 
-- Finalize services, target customers, and service area.
+- Finalize service lines, target customers, and service area.
 - Complete registration decisions and filings (SNB + CRA as needed).
 - Identify permit/licence needs using BizPaL and municipality checks.
 - Get insurance quotes and bind required policies.

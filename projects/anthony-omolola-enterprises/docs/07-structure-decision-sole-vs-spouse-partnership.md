@@ -2,7 +2,7 @@
 
 Date: 2026-05-02  
 Region: New Brunswick, Canada  
-For: Fola's Cleaning Company planning
+For: Anthony & Omolola Enterprises planning
 
 ---
 

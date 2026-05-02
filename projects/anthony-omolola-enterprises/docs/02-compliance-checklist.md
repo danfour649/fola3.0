@@ -1,4 +1,4 @@
-# Compliance Checklist (New Brunswick Cleaning Company)
+# Compliance Checklist (Anthony & Omolola Enterprises)
 
 Use this as a living checklist. Mark each item done only when documented.
 
@@ -48,11 +48,11 @@ Use this as a living checklist. Mark each item done only when documented.
 - [ ] Define vacation/public holiday handling
 - [ ] Build policy for leaves and termination process
 
-## G) Client and contract controls
+## G) Service line and contract controls
 
-- [ ] Standardize estimate/quote template
-- [ ] Standardize service agreement terms
-- [ ] Add scope boundaries (what is included/excluded)
+- [ ] Standardize estimate/quote template for each service line
+- [ ] Standardize service agreement terms across services
+- [ ] Add clear scope boundaries (what is included/excluded) per service
 - [ ] Add cancellation, rescheduling, and late payment terms
 - [ ] Set process for pre/post-service quality check
 

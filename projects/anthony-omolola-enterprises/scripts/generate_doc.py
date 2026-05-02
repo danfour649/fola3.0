@@ -4,7 +4,7 @@ Generate DOCX/PDF from one markdown file.
 
 Examples:
   python3 scripts/generate_doc.py \
-    --input docs/06-business-plan-folas-cleaning-company.md \
+    --input docs/06-business-plan-anthony-omolola-enterprises.md \
     --output-dir deliverables \
     --formats docx,pdf
 """
